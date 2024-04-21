@@ -17,6 +17,10 @@
     padding: 10px;
     text-align: center;
     cursor: pointer;
+
+    max-width: 100%;
+    white-space: normal;
+    overflow: hidden;
 }
 
 .team-box img {
